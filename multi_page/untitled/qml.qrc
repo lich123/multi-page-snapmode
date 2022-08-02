@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/FM.jpg</file>
+        <file>image/map.jpg</file>
+        <file>image/media.png</file>
+        <file>image/music.jpg</file>
+        <file>image/phone.jpg</file>
+        <file>image/setting2.png</file>
+        <file>image1/101-anh-sieu-xe-4k-tai-free-lam-hinh-nen-dt-may-tinh.jpg</file>
+        <file>imageleft/auto.png</file>
+        <file>imageleft/BlackJack.png</file>
+        <file>imageleft/book.png</file>
+        <file>imageleft/Camera.png</file>
+        <file>imageleft/film.png</file>
+        <file>imageleft/game.png</file>
+        <file>imageright/bluetooth.png</file>
+        <file>imageright/cate.png</file>
+        <file>imageright/cloud.png</file>
+        <file>imageright/server.png</file>
+        <file>imageright/web.png</file>
+        <file>imageright/wifi.png</file>
+    </qresource>
+</RCC>
